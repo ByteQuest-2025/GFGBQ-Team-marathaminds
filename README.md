@@ -1,2 +1,7 @@
 # GFGBQ-Team-marathaminds
-Repository for marathaminds - Vibe Coding Hackathon
+Team Name - MarathaMinds 
+Team Members - 2
+Team Member 1 - Laxman Gaidhankar 
+Team Member 2 - Pratik Jadhav
+Problem Statement - Social 
+Problem Statement No. 10
